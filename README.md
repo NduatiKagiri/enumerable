@@ -1,4 +1,4 @@
-# Morse code
+# Enurable
 
 A project to create the Ruby enumerable module.
 
@@ -11,15 +11,15 @@ A project to create the Ruby enumerable module.
 ## Clone this repository
 
   $ git@github.com:NduatiKagiri/enumerable.git
-  $ cd morse-code
+  $ cd enumerable
 
 ## Run Project
   $ Kali Rolling WSL
 
 ### Install
-      $ rbenv install 3.0.1
-      $ rbenv global 3.0.1
-      $ ruby -v
+  $ rbenv install 3.0.1
+  $ rbenv global 3.0.1
+  $ ruby -v
 
 ## Authors
 
