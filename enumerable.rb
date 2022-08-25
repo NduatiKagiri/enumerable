@@ -5,4 +5,10 @@ module MyEnumerable
     end
     true
   end
+
+  def any 
+    list.each do |i| return true if yield i 
+    end 
+    false 
+    end 
 end
