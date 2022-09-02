@@ -1,7 +1,7 @@
 module MyEnumerable
   def all
     list.each do |i|
-      return false unless yield i
+      return true unless yield i
     end
     true
   end
